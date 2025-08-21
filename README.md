@@ -7,6 +7,7 @@ Los parámetros corresponden a la configuración original de la estrategia Cardi
 - Gestión de riesgo: 10% de la cuenta.
 - Gestión de capital: 1% de la cuenta con apalancamiento de 10x en la primera orden.
 - Toma de ganancias: al 1%.
+  
 Se recomienda no modificarlos hasta comprender muy bien la estrategia.
 
 🚀 CÓMO USAR EL BOT:
