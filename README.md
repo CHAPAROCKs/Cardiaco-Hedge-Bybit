@@ -11,15 +11,15 @@ Los parámetros corresponden a la configuración original de la estrategia Cardi
 Se recomienda no modificarlos hasta comprender muy bien la estrategia.
 
 🚀 CÓMO USAR EL BOT:
-1. Copia el contenido del archivo cardiaco_bybit.py, pégalo en un bloc de notas y guárdalo con el nombre cardiaco.py en la carpeta que prefieras.
-2. Abre la terminal (Consola CMD en Windows o Terminal en Mac/Linux).
+1. Fácil, copia el contenido del archivo cardiaco_bybit.py, pégalo en un bloc de notas o cualquier editor de texto plano y guárdalo donde quieras con el nombre cardiaco.py. Luego abrelo con doble click y listo a operar!
+2. En caso no te funcione con doble click: Abre la terminal (Consola CMD en Windows o Terminal en Mac/Linux).
 3. Escribe la palabra python (o python3) y presiona espacio.
 4. Arrastra el archivo cardiaco.py que guardaste y suéltalo directamente sobre la terminal.
 5. Presiona ENTER.
 
 
 🛠 PRIMERA VEZ USANDO BOT:
-1. Instala Python si no lo tienes instalado (selecciona las casilla de abajo, añadir Python al PATH si lo instalas por primera vez).
+1. Instala Python si no lo tienes instalado (selecciona las casilla de abajo, permisos del administrador y añadir Python al PATH).
 2. Abre la terminal (CMD en Windows o Terminal en Mac/Linux).
 3. Escribe el comando: pip install pybit
 4. Presiona ENTER.
