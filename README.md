@@ -13,7 +13,7 @@ Se recomienda no modificarlos hasta comprender muy bien la estrategia.
 🚀 CÓMO USAR EL BOT:
 1. Copia el contenido del archivo cardiaco_bybit.py, pégalo en un bloc de notas y guárdalo con el nombre cardiaco.py en la carpeta que prefieras.
 2. Abre la terminal (Consola CMD en Windows o Terminal en Mac/Linux).
-3. Escribe la palabra python o python3 y presiona espacio.
+3. Escribe la palabra python (o python3) y presiona espacio.
 4. Arrastra el archivo cardiaco.py que guardaste y suéltalo directamente sobre la terminal.
 5. Presiona ENTER.
 
