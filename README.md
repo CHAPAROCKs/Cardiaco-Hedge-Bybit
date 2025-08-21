@@ -1,5 +1,5 @@
 # Cardiaco-Hedge-Bybit
-Bot basado en la famosa estrategia de El Gafas Trading llamada “Cardiaco”. Es un bot semi-automático, ya que requiere asistencia para la colocación de las siguientes órdenes (disparos), las cuales son subjetivas de cada trader.
+Versión hedge del bot basado en la famosa estrategia de El Gafas Trading llamada “Cardiaco”. Es un bot semi-automático, ya que requiere asistencia para la colocación de las siguientes órdenes (disparos), las cuales son subjetivas de cada trader.
 
 🚀 CÓMO USAR EL BOT:
 
